@@ -58,7 +58,7 @@ This project demonstrates a modular approach to social network modeling. It proc
 ├── clean_and_structure.py         # Data cleaning pipeline
 ├── people_you_may_know.py         # Friend recommendation system
 ├── pages_you_might_likes.py       # Page recommendation system
-├── social_data.json             # Raw data
+├── social_data.json               # Raw data
 ├── cleaned_codebook_data.json     # Structured, clean data
 ```
 
