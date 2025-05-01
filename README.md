@@ -1,5 +1,3 @@
-Sure! Below is the completed README document for your project:
-
 ---
 
 # Coders of Delhi: Social Network Analysis
