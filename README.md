@@ -1,5 +1,3 @@
----
-
 # Coders of Delhi: Social Network Analysis
 
 A Python-powered project that simulates a mini social network, offering personalized friend and page recommendations through graph-based analysis and clean data pipelines.
